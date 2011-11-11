@@ -1,4 +1,4 @@
-(defproject codionics.utilities "0.1.0"
+(defproject codionics.utilities "0.1.1"
   :description "General purpose utility functions."
   :dependencies [[org.clojure/clojure "1.2.1"]
                  [midje "1.2.0"]]
